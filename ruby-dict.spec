@@ -1,7 +1,7 @@
 Summary: Ruby/DICT library
 Name: ruby-dict
 Version: 0.9.4
-Release: %mkrel 3
+Release: 4
 License: GPLv2+
 Group: Development/Ruby
 Source: http://www.caliban.org/files/ruby/%{name}-%{version}.tar.gz
