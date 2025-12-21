@@ -8,6 +8,7 @@ Source: http://www.caliban.org/files/ruby/%{name}-%{version}.tar.gz
 URL: https://www.caliban.org/ruby/
 BuildRoot: /var/tmp/%{name}-%{version}
 BuildArch: noarch
+BuildRequires:	make
 BuildRequires: ruby
 
 %description
